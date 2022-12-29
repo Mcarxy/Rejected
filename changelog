@@ -1,5 +1,5 @@
 We have removed TEMP "all" Feartures, but we will add them back in subsequent updates!
-[+] added Lua Engine
+[+] added lua engine (docs soon)
 [+] added protection for remote kick & crash
 [!] improved script event protections
-[!] improved crash protections 
+[!] improved crash protections
